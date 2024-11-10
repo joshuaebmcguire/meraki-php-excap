@@ -44,8 +44,8 @@
 	<title>Splash Page Test</title>
 
 	<script type="text/javascript" src="assets/jquery-2.1.0.min.js"></script>
-	<link rel="stylesheet" href="assets/bootstrap.min.css">
-	<link rel="stylesheet" href="assets/style.css">
+	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="styles.css">
 </head>
 <body>
 	<div class="container">
